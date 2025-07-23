@@ -1,9 +1,9 @@
-# 🎬 Local LLM-Based Movie Recommender (LLaMA 3 + Ollama)
+# 🎬 Local LLM-Based Movie Suggestions (LLaMA 3 + Ollama)
 
-This project is a simple Python-based movie recommender that uses a **local LLaMA 3.2 model via Ollama** to suggest **top-rated movies** based on your preferred **language** and **genre**. Instead of using any online API or cloud-based service, it prompts a locally running large language model (LLM) to generate a table of movie titles and short summaries.
+This project is a simple Python-based movie suggestions that uses a **local LLaMA 3.2 model via Ollama** to suggest **top-rated movies** based on your preferred **language** and **genre**. Instead of using any online API or cloud-based service, it prompts a locally running large language model (LLM) to generate a table of movie titles and short summaries.
 
 💡 Example:  
-You input `"Language: Hindi"` and `"Genre: Thriller"` — the model responds with a Markdown table listing relevant movie recommendations like *Cure*, *Audition*, etc., with short plot summaries.
+You input `"Language: Hindi"` and `"Genre: Thriller"` — the model responds with a Markdown table listing relevant movie suggestions like *Cure*, *Audition*, etc., with short plot summaries.
 
 ---
 
